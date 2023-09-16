@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5e Wiki/Characterizations/Multiclassing.md",
-                "mode": "preview",
+                "file": "Session Notes/Session 9.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5e Wiki/Characterizations/Multiclassing.md",
+                "file": "Session Notes/Session 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5e Wiki/Characterizations/Multiclassing.md",
+                "file": "Session Notes/Session 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5e Wiki/Characterizations/Multiclassing.md"
+                "file": "Session Notes/Session 9.md"
               }
             }
           },
@@ -186,6 +186,9 @@
   },
   "active": "563067c702aceea6",
   "lastOpenFiles": [
+    "Session Notes/Session Notes Database.md",
+    "Session Notes/Session 8.md",
+    "5e Wiki/Characterizations/Multiclassing.md",
     "Mystra",
     "5e Wiki/Characterizations/Languages.md",
     "5e Wiki/Characterizations/Inspiration.md",
@@ -198,7 +201,6 @@
     "5e Wiki/Gameplay/Abilities.md",
     "5e Wiki/Monsters/Monsters.md",
     "Locations/Mystra.md",
-    "Session Notes/Session Notes Database.md",
     "Attachments/Notes.png",
     "PlaceholderImage.png.md",
     "Party Dash.md",
@@ -215,7 +217,6 @@
     "Templates/Template - Simple.md",
     "Krylancelo Brynmoreeee.md",
     "Templates/Template - NPC.md",
-    "Session Notes/Session 0.md",
     "Attachments/Thrim Frostfang.jpg",
     "Attachments/Crud.jpg",
     "Attachments/Chomp.webp",
@@ -231,7 +232,6 @@
     "Templates",
     "5e Wiki/Treasure",
     "5e Wiki/Treasure (Alt)",
-    "5e Wiki/Spells",
-    "5e Wiki/Spells (Alt)"
+    "5e Wiki/Spells"
   ]
 }
