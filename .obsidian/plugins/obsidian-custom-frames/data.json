@@ -1,0 +1,16 @@
+{
+  "frames": [
+    {
+      "url": "https://www.legendkeeper.com/app/clgeu1oyz3s8l08985sqf2z46",
+      "displayName": "Mystra Map",
+      "icon": "Crown",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

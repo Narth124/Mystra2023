@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "d03451a0fdfeb0fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "859f3de0e7c61fa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d270284654375475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attachments/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1feae75306c37c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PlaceholderImage.png.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "563067c702aceea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5e Wiki/Characterizations/Multiclassing.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "283e12eb58ca9f7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0044cf35b2d77172",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ce50f63de01bcaf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0b40fd4301c7b9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a7e7c51a558d8b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "63cdb7ae4a266ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d662d187e1f1b59b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c0584b59e17d219",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5e Wiki/Characterizations/Multiclassing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "61de041cc5f018ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5e Wiki/Characterizations/Multiclassing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7eebc01530f562b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74dd479d38a5ecc2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5e Wiki/Characterizations/Multiclassing.md"
+              }
+            }
+          },
+          {
+            "id": "22b18465c495abda",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "obisidian-note-linker:Note Linker": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "563067c702aceea6",
+  "lastOpenFiles": [
+    "Mystra",
+    "5e Wiki/Characterizations/Languages.md",
+    "5e Wiki/Characterizations/Inspiration.md",
+    "5e Wiki/Characterizations/Feats.md",
+    "5e Wiki/Characterizations/Beyond 1st Level.md",
+    "5e Wiki/Characterizations/Backgrounds.md",
+    "5e Wiki/Characterizations/Alignment.md",
+    "Landing Page.md",
+    "5e Wiki/Gameplay/Adventuring.md",
+    "5e Wiki/Gameplay/Abilities.md",
+    "5e Wiki/Monsters/Monsters.md",
+    "Locations/Mystra.md",
+    "Session Notes/Session Notes Database.md",
+    "Attachments/Notes.png",
+    "PlaceholderImage.png.md",
+    "Party Dash.md",
+    "Locations/Settlement Database.md",
+    "PartyDash.md",
+    "Attachments/Map of Mystra.jpg",
+    "Attachments/Party.png",
+    "[[Mystra]].md",
+    "Attachments/Untitled.md",
+    "Attachments/Untitled 1.md",
+    "Attachments/Baldrin.jpg",
+    "image.png.md",
+    "Link.md",
+    "Templates/Template - Simple.md",
+    "Krylancelo Brynmoreeee.md",
+    "Templates/Template - NPC.md",
+    "Session Notes/Session 0.md",
+    "Attachments/Thrim Frostfang.jpg",
+    "Attachments/Crud.jpg",
+    "Attachments/Chomp.webp",
+    "Attachments/Chomp.png",
+    "[Locations",
+    "Factions",
+    "Locations/Factions",
+    "Attachments/Baldrin.png.png",
+    "Attachments/Thalion.png",
+    "5e",
+    "Untitled.canvas",
+    "Session Notes",
+    "Templates",
+    "5e Wiki/Treasure",
+    "5e Wiki/Treasure (Alt)",
+    "5e Wiki/Spells",
+    "5e Wiki/Spells (Alt)"
+  ]
+}

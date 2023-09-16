@@ -1,0 +1,10 @@
+---
+NoteIcon: Settlement
+---
+The Origin is an enigmatic and awe-inspiring phenomenon at the heart of Mystra, a massive vortex of swirling waters, infused with pure mana, the lifeblood of magic. It is said to have once been a boundless void of pure potential, giving rise to powerful entities that shaped the universe. As legends tell, the people of Mystra discovered the power hidden within the Origin's depths and harnessed it to create incredible magical artifacts and spells, placing their continent at the forefront of magical prowess.
+
+Surrounded by great towers and research facilities, the Origin has long been a hub of magical study and experimentation. Scholars, wizards, and sorcerers from across the land gather to unravel the mysteries of the powerful energies that flow from its waters. However, the Origin's immense power has not gone unnoticed. Dark forces have sought to claim its magic, plunging Mystra into devastating wars that left the land scarred and the once-pristine waters tainted and dangerous.
+
+Despite the turmoil, the resilient people of Mystra refused to submit to despair. With determination, they learned to control the Origin's energies, using its power to heal their land and restore their cities. As the centuries passed, Mystra reclaimed its former splendor, the waters of the Origin purified, and the surrounding lands revived.
+
+In the present day, the Origin stands as a testament to Mystra's magical heritage and indomitable spirit. Its mana-infused waters continue to fuel spells and artifacts, and the towering structures encircling it bustle with magical activity. As a potent and enigmatic force, the Origin captivates the hearts and minds of the people of Mystra, who remain devoted to uncovering its deepest secrets and unlocking the full potential of magic in their beloved homeland.

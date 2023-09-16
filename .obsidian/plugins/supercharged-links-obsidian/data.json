@@ -1,0 +1,66 @@
+{
+  "targetAttributes": [
+    "Party",
+    "Type",
+    "NoteIcon"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "NoteIcon",
+      "value": "Settlement",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "2543-10a2",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "Party",
+      "value": "ABC",
+      "matchCaseSensitive": true,
+      "match": "exact",
+      "uid": "64e6-f99f",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "Type",
+      "value": "NPC",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "1a07-2c76",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "Type",
+      "value": "VIP",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "c48b-e658",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}
