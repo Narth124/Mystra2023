@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ccff9327d3d4682",
+        "id": "859f3de0e7c61fa3",
         "type": "tabs",
         "children": [
           {
-            "id": "eac086b7ce584a08",
+            "id": "563067c702aceea6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/High Council of Celeste.md",
+                "file": "Session Notes/Session 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/High Council of Celeste.md",
+                "file": "Session Notes/Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/High Council of Celeste.md",
+                "file": "Session Notes/Session 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/High Council of Celeste.md"
+                "file": "Session Notes/Session 7.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "64313c3d66375c8e",
+            "id": "ff2d90dc49b4b301",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,44 +167,44 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "eac086b7ce584a08",
+  "active": "563067c702aceea6",
   "lastOpenFiles": [
-    "Factions/High Council of Celeste.md",
-    "Primary Characters/Chomp.md",
-    "Primary Characters/Crud.md",
     "Session Notes/Session 6.md",
-    "Party Dash.md",
-    "Landing Page.md",
-    "Session Notes/Session 9.md",
-    "Session Notes/Session 8.md",
+    "Session Notes/Session 5.md",
+    "Session Notes/Session 4.md",
+    "Session Notes/Session 3.md",
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 0.md",
     "Session Notes/Session 7.md",
-    "Session Notes/Session Notes Database.md",
-    "5e Wiki/Characterizations/Multiclassing.md",
-    "Mystra",
-    "5e Wiki/Characterizations/Languages.md",
-    "5e Wiki/Characterizations/Inspiration.md",
-    "5e Wiki/Characterizations/Feats.md",
-    "5e Wiki/Characterizations/Beyond 1st Level.md",
-    "5e Wiki/Characterizations/Backgrounds.md",
-    "5e Wiki/Characterizations/Alignment.md",
-    "5e Wiki/Gameplay/Adventuring.md",
-    "5e Wiki/Gameplay/Abilities.md",
-    "5e Wiki/Monsters/Monsters.md",
-    "Locations/Mystra.md",
-    "Attachments/Notes.png",
-    "PlaceholderImage.png.md",
+    "Session Notes/Session 8.md",
+    "Factions/High Council of Celeste.md",
+    "Locations/Aranthas.md",
+    "Primary Characters/Isadora Hellfire.md",
+    "Primary Characters/Benedict Waddleton III.md",
+    "Primary Characters/Arthur Pebbleton.md",
+    "[Locations/Material Plane.md",
+    "Locations/Material Plane.md",
+    "Primary Characters/Vyren Steler.md",
+    "Primary Characters/Ragnar Frostfang.md",
+    "Primary Characters/Krylancelo Brynmore.md",
+    "Factions/Arthur Benedict and Company.md",
+    "[Locations",
+    "Locations/Nave.md",
     "Locations/Settlement Database.md",
-    "PartyDash.md",
+    "Locations/The Emerald Forest.md",
+    "Locations/The Origin.md",
+    "Primary Characters/Dahlia Moonshade.md",
+    "Session Notes/Session Notes Database.md",
+    "Mystra",
+    "Attachments/Notes.png",
     "Attachments/Map of Mystra.jpg",
     "Attachments/Party.png",
-    "[[Mystra]].md",
-    "Attachments/Untitled.md",
     "Attachments/Baldrin.jpg",
     "Attachments/Thrim Frostfang.jpg",
     "Attachments/Crud.jpg",
     "Attachments/Chomp.webp",
     "Attachments/Chomp.png",
-    "[Locations",
     "Factions",
     "Locations/Factions",
     "Attachments/Baldrin.png.png",

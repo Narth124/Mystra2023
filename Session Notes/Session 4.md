@@ -1,6 +1,6 @@
 ---
 Type: Session Note
-Number: 
+Number: 4
 Date: 
 Note_Type: Session Note
 ---
