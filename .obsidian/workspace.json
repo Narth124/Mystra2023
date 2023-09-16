@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 9.md",
-                "mode": "source",
+                "file": "Landing Page.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 9.md",
+                "file": "Landing Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 9.md",
+                "file": "Landing Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 9.md"
+                "file": "Landing Page.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "eac086b7ce584a08",
   "lastOpenFiles": [
-    "Session Notes/Session 8.md",
     "Session Notes/Session 9.md",
+    "Session Notes/Session 8.md",
     "Landing Page.md",
     "Session Notes/Session 7.md",
     "Session Notes/Session Notes Database.md",
