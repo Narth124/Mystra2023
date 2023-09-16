@@ -23,7 +23,7 @@ Note_Type: Session Note
 	- They also want the amulet.
 	- They also fucked for sure, have chemistry and sexual tension.
 	- They agree to give us half a week to finish our bussin business and leave before they come back for the amulet
-- [[Krylancelo Brynmore|Kryl]] loots the bodies:
+- [[Krylancelo Brynmor|Kryl]] loots the bodies:
 	- a +1 dagger
 	- A satchel full of letters detailing recent jobs - assigned to [[Crud]], the leader
 		- 1 letter in particular - seems to be an existing/current job to take obtain the Heart of Nocturne signed ‘in the shadows of the archduke’
@@ -32,7 +32,7 @@ Note_Type: Session Note
 	- [[Vyren Steler|Vyren]] wants to note that Baldrin (who [[Crud]] works for) is worse than [[Lucien]] and ‘I told you so’.
 - We leave on the cart.
 	- [[Benedict Waddleton III|Benedict]] cleans his card obsessively and even talks to them
-	- [[Krylancelo Brynmore|Kryl]] and [[Isadora Hellfire|Isadora]] identify some of the items we picked up.
+	- [[Krylancelo Brynmor|Kryl]] and [[Isadora Hellfire|Isadora]] identify some of the items we picked up.
 		- The Black Armor Suit - All light around it is absorbed. Gives adv. on stealth checks, also intricate runes across the armor, unsure what they do, they are currently inactive.
 		- +1 Dagger - ripples and light is absorbed by it. It does an extra 1d4 of cold damage
 		- Black Ring - Allows to cast [[misty step]] once per short rest
@@ -40,14 +40,14 @@ Note_Type: Session Note
 - We arrive back at the manor and meet with [[Lucien]].
 	- He knows about the ‘Temple of the Raven Queen’, they are planning to seal it up.
 	- He agrees to give us our reward now.
-	- We tell him about [[the Adopted]]/Baldrin’s interest in the mines. He gives [[Krylancelo Brynmore|Kryl]] an Identify scroll in return. He knows of them.
+	- We tell him about [[the Adopted]]/Baldrin’s interest in the mines. He gives [[Krylancelo Brynmor|Kryl]] an Identify scroll in return. He knows of them.
 	- [[The Adopted]] believe they have a higher purpose, and believe their ‘Father’ can get them there. He’s very powerful, and they are trying to collect powerful artifacts to power their ascension.
 	- He advises us not to fight [[the Adopted]], if you meddle with them it may be the last breath you take. He knows about [[Penicillin|Penny]] or ‘[[Penicillin]]’, she’s very powerful, almost as much as myself.
 	- He tells us more about the black armor - any strength checks, ability scores or attacks get a +2 bonus.
 	- The ruby ring also has more to it - it can store spell slots to be used later on or gifted to someone else (up to 3 levels of spell slots). Known as the Ring of the Spellweaver.
 	- He awards us a small token of appreciation. A crystal tear gem - The Leviathan’s Tear, and a chest of gold (30g each).
 	- He tells us we are welcome back in [[Darken Post]]. He sees potential in us and asks if anyone wants to ‘join his family’ (become a [[vampire]]).
-		- [[Krylancelo Brynmore|Kryl]] agrees and he marks us as honorary members to be safe in his house.
+		- [[Krylancelo Brynmor|Kryl]] agrees and he marks us as honorary members to be safe in his house.
 	- [[Benedict Waddleton III|Benedict]] privately asks [[Lucien]] and the women about his deck and seal
 		- He found them in a shipwreck while fishing, it gave him powers
 		- When he went back the ship was gone
@@ -55,7 +55,7 @@ Note_Type: Session Note
 		- Another [[Deck of Many Things]] shuffled in would likely enhance the power of the deck
 		- This Deck is ‘locked by the gods’ she doesn’t know much more.
 		- She says he could find a temple of the Allhammer to find out more, or card slinger etc.
-- [[Krylancelo Brynmore|Kryl]] is led to the top of the manor to two large double doors.
+- [[Krylancelo Brynmor|Kryl]] is led to the top of the manor to two large double doors.
 	- [[Lucien]] and 4 Succubus are inside. He takes him into the dungeon and straps him to a gurney and they turn him into a [[vampire]].
 	- He wakes up some time later with increased reflexes and stats.
 	- [[Lucien]] gifts him one of his swords:
@@ -69,8 +69,8 @@ Note_Type: Session Note
 	- He warns him that water is not the friend of a [[vampire]] - unable to revive while in the water.
 	- Gives him a ring with a sigil of a bat with fangs - certain people will know this, and will respect this ring, it may help.
 - We return to the ship and set sail.
-- [[Krylancelo Brynmore|Kryl]] hears a voice in his head: “Strong but not ready… What’s your name child… My name is Ashen, you choose to wear my armor, we will see who wins…” - The Blackened Cursed Armor tightens on his body, it can no longer be removed.
-- [[Krylancelo Brynmore|Kryl]] feels invincible.
+- [[Krylancelo Brynmor|Kryl]] hears a voice in his head: “Strong but not ready… What’s your name child… My name is Ashen, you choose to wear my armor, we will see who wins…” - The Blackened Cursed Armor tightens on his body, it can no longer be removed.
+- [[Krylancelo Brynmor|Kryl]] feels invincible.
 - **PARTY LEVEL UP - LEVEL 4**
 
 # SESSION RECAP:
@@ -90,6 +90,6 @@ The party left the mines, their minds filled with questions and newfound knowled
 
 Upon their return to [[Darken Post]], [[Lucien]], a figure of enigmatic grace and wisdom, granted them further insights into their discoveries and offered rewards for their bravery. The Amulet of Nocturn and [[The Adopted]]'s intentions were discussed, along with a grim warning to avoid meddling in affairs beyond their comprehension.
 
-A moment of decision came as [[Lucien]] extended an invitation to join his family, an offer that led [[Krylancelo Brynmore|Kryl]] down a path of transformation. The dark embrace of vampirism was bestowed upon him, a gift that came with increased power and a cursed blade that hungered for blood.
+A moment of decision came as [[Lucien]] extended an invitation to join his family, an offer that led [[Krylancelo Brynmor|Kryl]] down a path of transformation. The dark embrace of vampirism was bestowed upon him, a gift that came with increased power and a cursed blade that hungered for blood.
 
-As the adventurers set sail, filled with a sense of accomplishment and trepidation, [[Krylancelo Brynmore|Kryl]] was visited by a voice, the dark spirit of the cursed armor tightening its hold. A challenge was issued, a battle of wills begun, as the party leveled up to face new horizons.
+As the adventurers set sail, filled with a sense of accomplishment and trepidation, [[Krylancelo Brynmor|Kryl]] was visited by a voice, the dark spirit of the cursed armor tightening its hold. A challenge was issued, a battle of wills begun, as the party leveled up to face new horizons.

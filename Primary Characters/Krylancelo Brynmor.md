@@ -4,7 +4,7 @@ aliases:
   - Krill
   - Monti
   - Monti Izdawra
-  - Krylancelo Brynmo
+  - Krylancelo Brynmore
 Race: Vampire
 Class: Fighter
 Bonds: 

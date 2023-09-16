@@ -1,6 +1,7 @@
 ---
 aliases:
   - Bladrin
+  - Baldron
 Race: Gnome
 NoteIcon: Character
 Type: VIP

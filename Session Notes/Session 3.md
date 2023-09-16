@@ -23,15 +23,15 @@ Note_Type: Session Note
 	- The captain sends us in the dinghy to find out what’s happening on the ship
 - We row across, the boat seems deserted and silent, things don’t feel right
 	- [[Isadora Hellfire|Isadora]] realises it’s identical to our ship
-- We climb up the side, [[Vyren Steler|Vyren]], [[Krylancelo Brynmore|Monti]] and [[Arthur Pebbleton|Arthur]] all can’t breathe and take more damage
+- We climb up the side, [[Vyren Steler|Vyren]], [[Krylancelo Brynmor|Monti]] and [[Arthur Pebbleton|Arthur]] all can’t breathe and take more damage
 - There are 6 corpses, 5 have been hung, and 1 hung and stabbed through with many swords
 	- They are our party
 	- [[Vyren Steler|Vyren]] is the stabbed corpse
 	- Dead for maybe a week
 	- The seem to be exact copies of us
 	- [[Ragnar Frostfang|Ragnar]] chops them down
-	- We realise [[Krylancelo Brynmore|Monti]] is missing, there’s a young man in his place, wearing [[Krylancelo Brynmore|Monti]]’s clothing
-- We learn that [[Krylancelo Brynmore|Monti]] is actually in disguise. He’s a young man. He drops the [[disguise self]] spell and we see who he really is. Dark hair, slicked back, boyish and strong looking
+	- We realise [[Krylancelo Brynmor|Monti]] is missing, there’s a young man in his place, wearing [[Krylancelo Brynmor|Monti]]’s clothing
+- We learn that [[Krylancelo Brynmor|Monti]] is actually in disguise. He’s a young man. He drops the [[disguise self]] spell and we see who he really is. Dark hair, slicked back, boyish and strong looking
 	- He’s been hiding from everyone
 	- He’s hiding from [[Celeste]], the capital city
 	- Not actually a [[wizard]], but a [[fighter]] - he has chain mail
