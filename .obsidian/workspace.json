@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "859f3de0e7c61fa3",
+        "id": "6ccff9327d3d4682",
         "type": "tabs",
         "children": [
           {
-            "id": "d270284654375475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attachments/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1feae75306c37c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PlaceholderImage.png.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "563067c702aceea6",
+            "id": "eac086b7ce584a08",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,9 +136,17 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "64313c3d66375c8e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -184,10 +167,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "563067c702aceea6",
+  "active": "eac086b7ce584a08",
   "lastOpenFiles": [
-    "Session Notes/Session Notes Database.md",
     "Session Notes/Session 8.md",
+    "Session Notes/Session 9.md",
+    "Landing Page.md",
+    "Session Notes/Session 7.md",
+    "Session Notes/Session Notes Database.md",
     "5e Wiki/Characterizations/Multiclassing.md",
     "Mystra",
     "5e Wiki/Characterizations/Languages.md",
@@ -196,7 +182,6 @@
     "5e Wiki/Characterizations/Beyond 1st Level.md",
     "5e Wiki/Characterizations/Backgrounds.md",
     "5e Wiki/Characterizations/Alignment.md",
-    "Landing Page.md",
     "5e Wiki/Gameplay/Adventuring.md",
     "5e Wiki/Gameplay/Abilities.md",
     "5e Wiki/Monsters/Monsters.md",
@@ -215,8 +200,6 @@
     "image.png.md",
     "Link.md",
     "Templates/Template - Simple.md",
-    "Krylancelo Brynmoreeee.md",
-    "Templates/Template - NPC.md",
     "Attachments/Thrim Frostfang.jpg",
     "Attachments/Crud.jpg",
     "Attachments/Chomp.webp",
